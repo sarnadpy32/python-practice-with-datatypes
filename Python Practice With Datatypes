@@ -1,0 +1,9 @@
+name = "art vandelay" # 'ART VANDELAY'
+name.upper()
+'hello' # whatttt
+name.title() # 'Art Vandelay'
+"ceo".upper() # 'CEO'
+"art.vandelay@vandelay.co".endswith(".com") # Flase
+"art.vandelay@vandelay.com".endswith(".com") # True
+"www." + "vandelay.com" # 'www.vandelay.com'
+"7285553334"[:3] # '728'
